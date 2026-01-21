@@ -1,0 +1,10 @@
+C:\Users\artem\source\repos\SmartphonesApp\bin\Debug\SmartphonesApp.exe.config
+C:\Users\artem\source\repos\SmartphonesApp\bin\Debug\SmartphonesApp.exe
+C:\Users\artem\source\repos\SmartphonesApp\bin\Debug\SmartphonesApp.pdb
+C:\Users\artem\source\repos\SmartphonesApp\obj\Debug\SmartphonesApp.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\SmartphonesApp\obj\Debug\SmartphonesApp.Form1.resources
+C:\Users\artem\source\repos\SmartphonesApp\obj\Debug\SmartphonesApp.Properties.Resources.resources
+C:\Users\artem\source\repos\SmartphonesApp\obj\Debug\SmartphonesApp.csproj.GenerateResource.cache
+C:\Users\artem\source\repos\SmartphonesApp\obj\Debug\SmartphonesApp.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\SmartphonesApp\obj\Debug\SmartphonesApp.exe
+C:\Users\artem\source\repos\SmartphonesApp\obj\Debug\SmartphonesApp.pdb
